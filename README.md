@@ -27,6 +27,7 @@
 ### Useful links throughout the workshop
 
 - [P5.js Reference Docs](https://p5js.org/reference/)
+- [git-scm](https://git-scm.com)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
 
 <details>
@@ -35,7 +36,6 @@
 
 #### Git
 - [Git Cheat Sheets](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
-- [git-scm](https://git-scm.com)
 - [Git Katas](https://github.com/praqma-training/gitkatas)
 - [Git Aliases](https://haacked.com/archive/2014/07/28/github-flow-aliases/)
 
