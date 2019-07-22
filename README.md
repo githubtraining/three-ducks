@@ -40,7 +40,6 @@
 - [Git Aliases](https://haacked.com/archive/2014/07/28/github-flow-aliases/)
 
 #### Review materials & visualization
-- [Review videos](https://www.youtube.com/playlist?list=PLg7s6cbtAD16Pgp6WIVfX4VsGI-xyWkMz)
 - [GitSchool - Visualizing Git](http://git-school.github.io/visualizing-git/)
 - [LearnGitBranching](http://learngitbranching.js.org/?NODEMO)
 
