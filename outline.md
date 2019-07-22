@@ -1,9 +1,7 @@
 ## Welcome
 
 1. Introductions (me and you)
-2. Getting our machines ready
-  - Git-scm
-  - Atom
+2. Getting our machines ready (Git SCM and Atom)
 3. Glitch
 4. Workshop
 
