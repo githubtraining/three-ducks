@@ -26,7 +26,7 @@
 
 ### Useful links throughout the workshop
 
-- [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
+- [P5.js Reference Docs](https://p5js.org/reference/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
 
 <details>
@@ -68,7 +68,7 @@
 
 </details>
 
-### Workshop steps
+### Getting started
 
 1. Create your Glitch app by following this link: https://glitch.com/edit/#!/remix/githubtraining-three-ducks
 1. Click the "Show Live" button at the top of the page.
