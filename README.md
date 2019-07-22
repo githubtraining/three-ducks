@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://glitch.com/edit/#!/remix/probot-workshop">
+  <a href="https://glitch.com/edit/#!/remix/githubtraining-three-ducks">
     <img src="https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg" alt="Remix With Glitch">
   </a>
 </p>
@@ -70,7 +70,7 @@
 
 ### Workshop steps
 
-1. Create your Glitch app by following this link:
+1. Create your Glitch app by following this link: https://glitch.com/edit/#!/remix/githubtraining-three-ducks
 1. Click the "Show Live" button at the top of the page.
 
 ### Extend and improve our site further
