@@ -26,13 +26,27 @@
 2. Clone **your forked repository** (located at www.github.com/YOUR_USERNAME/three-ducks) to your Command Line Interface ([Instructions](https://youtu.be/GBRIxmKRPGA?t=16s)):
 <img width="1720" alt="step2" src="https://cloud.githubusercontent.com/assets/13326548/25216381/2836bfb8-2557-11e7-80f5-1a24e5338b16.png">
 
-3. From your Command Line, make sure to `cd` into the repository that you've just cloned. In this case, `cd art-place`
+3. From your Command Line, make sure to `cd` into the repository that you've just cloned. In this case, `cd three-ducks`
 
 ## Exercise three
 
 1. Start by typing `git branch NEWBRANCHNAME`
 2. Checkout to your new branch by typing `git checkout NEWBRANCHNAME`
-3. Open up your file in your favorite text editor.
-4. Make a change, and save.
+3. Open up this project in your favorite text editor.
+4. Create a new file in the `codeland-examples` branch and save.
 5. Commit your change by using the core Git commands you've been taught!
     - `git status`,`git add FILE`, `git commit -m "DESCRIPTION"`, `git push`
+
+## Exercise four
+
+1. Add new content to your new file. Feel free to experiment in Glitch, and copy/paste when you're done.
+2. Commit your change by using the core Git commands you've been taught! This time, make a slight change to `git add`, and use `git add -p` for atomic commits
+    - `git status`,`git add -p FILE`, `git commit -m "DESCRIPTION"`, `git push`
+
+## Exercise five
+
+1. Make a Pull Request between your repo and the original repository.
+
+## Exercise six
+
+Extend! Improve the functionality of the project by adding responsiveness to the file in the browser, or a gallery view of all files, or anything else that you can think of!
